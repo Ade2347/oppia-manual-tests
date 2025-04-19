@@ -9,6 +9,7 @@ This repository contains structured manual test cases for validating key feature
 - SSO login + sign-up flow validation
 - Homepage UI elements and navigation checks
 - Registration form field validations
+- Test reports
 
 ## ✅ Features Covered
 
